@@ -1,0 +1,4 @@
+My name is john doe . 
+I am learning Python. 
+This is my first step towards Resume Analyzer.
+skills: python . java . c 
